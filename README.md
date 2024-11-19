@@ -1,40 +1,43 @@
-# rishi-college
-test-account
+# Machine Learning
 
-# Introduction to AI
+This repository contains the course materials for Machine Learning.
 
-- Why ML ?
-- Advantages 
-- Applications
+## Introduction to AI/ML
 
-1. Health
-2. Government
-3. Sports
+- [x] Overview
+- [x] Introduction
+- [x] Applications in different domains
+      - Finance
+      - Government
+      - Healthcare
+      - Education
+      - Entertainment
+- [x] *Think💡* : What is difference between AI, ML and DL.
+  
+## Python Fundamentals
 
-- Addition of two numbers
+- [x] Introduction
+- [x] Why Python?
+- [x] Installation
+  - Download the $latest$ version for learning
+  - Download the $(latest-2)$ for project
+  - During installation, make sure to add python to path (Use *environment variables*)
+  - You can use [Visual Studio Code](https://code.visualstudio.com/), [Google Colab](https://colab.research.google.com/), [Jupyter Notebook](https://jupyter.org/) or any other IDE.
+- [x] Libraries
+- [x] Control Statements
+- [x] Functions
+- [x] *Think💡* : Why Python is predominantly used for AI/ML?
+  
+---
 
-a=4  
-b=6  
-print(a+b)
+### Important points
 
-```python
-
-a=4
-b=6
-print(a+b)
-
-```
-
-| Types of Data | Examples |
-| ------------- | -------- |
-| integer       |  1,2,3,4 |
-| float | 1.2,3.64,234.2321,0.1312 |
-
-
-[Link_to_be_displayed](Actual_Link)
-
-
-[Google](https://www.google.com/)
-
-[https://bit.ly/rishi-ml](https://bit.ly/rishi-ml)
-
+- Assignments must be completed on time and are check by peer members. Follow the guidelines:
+  - [ ] Read the Assignment Carefully
+  - [ ] Use of Meaningful Variables and Naming Conventions
+  - [ ] Code Readability and Documentation
+  - [ ] Efficient Use of Python Features
+  - [ ] Error Handling and Edge Cases
+  - [ ] Logic and Problem Solving
+  - [ ] Overall Code Quality
+- Use of AI tools is discouraged.
