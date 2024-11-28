@@ -41,3 +41,8 @@ This repository contains the course materials for Machine Learning.
   - [ ] Logic and Problem Solving
   - [ ] Overall Code Quality
 - Use of AI tools is discouraged.
+
+
+Logistic Regression: [Notebook](https://colab.research.google.com/drive/1c86xBAmu8SQnPxSjvXYmVTNb_mnwKA4p?usp=sharing)
+
+Feedback Form: [https://forms.gle/MZUqFv5pvXVBFp3E8](https://forms.gle/MZUqFv5pvXVBFp3E8)
