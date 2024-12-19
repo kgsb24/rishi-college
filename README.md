@@ -42,6 +42,7 @@ This repository contains the course materials for Machine Learning.
   - [ ] Overall Code Quality
 - Use of AI tools is discouraged.
 
+Dataset Source: [https://www.kaggle.com/datasets/mahmoudhassanmahmoud/diabites-dataset](https://www.kaggle.com/datasets/mahmoudhassanmahmoud/diabites-dataset)
 
 Logistic Regression: [Notebook](https://colab.research.google.com/drive/1c86xBAmu8SQnPxSjvXYmVTNb_mnwKA4p?usp=sharing)
 
