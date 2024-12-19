@@ -43,7 +43,7 @@ This repository contains the course materials for Machine Learning.
 - Use of AI tools is discouraged.
 
 Dataset Source: [https://www.kaggle.com/datasets/mahmoudhassanmahmoud/diabites-dataset](https://www.kaggle.com/datasets/mahmoudhassanmahmoud/diabites-dataset)
-
+Health Dataset: [https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease](https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease)
 Logistic Regression: [Notebook](https://colab.research.google.com/drive/1c86xBAmu8SQnPxSjvXYmVTNb_mnwKA4p?usp=sharing)
 
 Feedback Form: [https://forms.gle/MZUqFv5pvXVBFp3E8](https://forms.gle/MZUqFv5pvXVBFp3E8)
